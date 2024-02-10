@@ -1,4 +1,4 @@
 # Web kelola Data Produk - CRUD 
 
 ## Tampilan Awal 
-![alt text](https://drive.google.com/drive/u/0/folders/1TH8kYl_USfGJsy7jTnquosTg2D7--gcs)
+<img width="1680" alt="tampilanAwal" src="https://github.com/ThoyimWalin/pijarcamp/assets/40849197/1529568c-45ab-4952-8f1e-67422905a8e9">
